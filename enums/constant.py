@@ -1,0 +1,1 @@
+S3_BUCKET_NAME = "images"DYNAMODB_TABLE_NAME = "user-images"ENDPOINT_URL = "http://localhost.localstack.cloud:4566"REGION = "us-west-2" # Could be created as enums as well

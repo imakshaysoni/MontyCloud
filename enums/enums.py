@@ -1,0 +1,1 @@
+from enum import Enumclass BotoClient(Enum):    S3="s3"    API_GATEWAY="api_gateway"    DYNAMODB="dynamodb"    LAMBDA="lambda"
